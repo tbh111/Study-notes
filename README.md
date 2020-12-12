@@ -4,10 +4,10 @@ Notes for my lessons/developments
 ## Contents
 ```
 ./lessons
-  Assembly language
-  Microcomputer interface
+    Assembly language
+    Microcomputer interface
 ./developments
-  Vitis vision
-  PYNQ
-  OpenCV
+    Vitis vision
+    PYNQ
+    OpenCV
 ```
