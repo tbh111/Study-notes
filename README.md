@@ -12,4 +12,5 @@ Notes for my lesson/development.
     Vitis vision(coming soon)
     PYNQ(coming soon)
     OpenCV(coming soon)
+    Airsim(not completed)
 ```
